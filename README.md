@@ -4,7 +4,7 @@
 This is a small project we had to make for a Java assignment for my studies.
 
 ## You will find
-* A simple GUI for using the algorithm
+* A simple GUI for using the algorithm (used as view and controller, please forgive the mess)
 * A single-threaded implementation
 * A multi-threaded implementation using Java's Executors and Callables
 
