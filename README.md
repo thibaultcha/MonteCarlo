@@ -1,4 +1,4 @@
-# Monte Carlo single and multi threaded Java implementation
+# Monte Carlo single and multithread Java implementation
 
 ## Why ?
 This is a small project we had to make for a Java assignment for my studies.
@@ -8,7 +8,7 @@ This is a small project we had to make for a Java assignment for my studies.
 * A single-threaded implementation
 * A multi-threaded implementation using Java's Executors and Callables
 
-## How to use
+## How to
 Open the project in your favorite IDE then build and run MonteCarloSingleThread or MonteCarloMultiThread depending on which implementation you want to use.
 
 ## Licensing
