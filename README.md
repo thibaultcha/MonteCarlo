@@ -1,7 +1,7 @@
 # Monte Carlo single and multithread Java implementation
 
 ## Why ?
-This is a small project we had to make for a Java assignment for my studies.
+This is a small project we had to make for a Java assignment during my studies.
 
 ## You will find
 * A simple GUI for using the algorithm (used as view and controller, please forgive the mess)
